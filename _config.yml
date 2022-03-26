@@ -1,1 +1,23 @@
 theme: jekyll-theme-cayman
+title: Bidhan Kumar Sahu
+
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_text: "© Makra"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/me/" 
+ - name: "CV"
+   link: "Resume.pdf"
+ - name: "Contact"
+   link: "contact"
